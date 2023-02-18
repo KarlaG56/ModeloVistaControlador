@@ -1,0 +1,26 @@
+{
+  "name": "mvc-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarlaG56/ModeloVistaControlador.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarlaG56/ModeloVistaControlador/issues"
+  },
+  "homepage": "https://github.com/KarlaG56/ModeloVistaControlador#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "simple-encryptor": "^4.0.0"
+  }
+}
